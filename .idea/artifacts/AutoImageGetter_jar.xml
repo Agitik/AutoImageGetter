@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoImageGetter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoImageGetter_jar</output-path>
+    <root id="archive" name="AutoImageGetter.jar">
+      <element id="module-output" name="AutoImageGetter" />
+    </root>
+  </artifact>
+</component>
